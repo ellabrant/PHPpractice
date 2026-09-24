@@ -4,7 +4,6 @@
   <body>
     <p>Ella's shopping list</p>
   </body>
-</html>
 
 <?php
   $inventory = [
@@ -34,3 +33,4 @@
 <?php endforeach; 
 
 ?>
+</html>
